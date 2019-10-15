@@ -13,3 +13,4 @@
 **Vue中使用QRcode.js生成二维码**
 
 *https://www.jianshu.com/p/d3883e020d99*
+
