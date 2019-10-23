@@ -1,4 +1,10 @@
-**Vue CLI 3+tinymce 5富文本编辑器整合**
+**TinyMCE中文文档**
+
+*http://tinymce.ax-z.cn/*
+
+
+
+Vue CLI 3+tinymce 5富文本编辑器整合**
 
 *https://liubing.me/vue-tinymce-5.html*
 
