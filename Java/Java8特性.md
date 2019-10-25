@@ -1,29 +1,29 @@
-使用 Java8 Optional 的正确姿势
-https://yanbin.blog/proper-ways-of-using-java8-optional/
+**使用 Java8 Optional 的正确姿势**
+*https://yanbin.blog/proper-ways-of-using-java8-optional/*
 
 
 
-Java8 如何正确使用 Optional
+**Java8 如何正确使用 Optional**
 
-http://www.importnew.com/26066.html
-
-
-
-理解、学习与使用 JAVA 中的 OPTIONAL
-
-https://www.cnblogs.com/zhangboyu/p/7580262.html
+*http://www.importnew.com/26066.html*
 
 
 
-Java 8 Optional类深度解析
+**理解、学习与使用 JAVA 中的 OPTIONAL**
 
-https://www.cnblogs.com/xingzc/p/5778090.html
+*https://www.cnblogs.com/zhangboyu/p/7580262.html*
 
 
 
-Java8特性之Optional详细解读
+**Java 8 Optional类深度解析**
 
-https://blog.csdn.net/Anbernet/article/details/80851573
+*https://www.cnblogs.com/xingzc/p/5778090.html*
+
+
+
+**Java8特性之Optional详细解读**
+
+*https://blog.csdn.net/Anbernet/article/details/80851573*
 
 
 

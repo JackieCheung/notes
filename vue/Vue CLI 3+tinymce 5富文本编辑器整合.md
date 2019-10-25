@@ -4,7 +4,7 @@
 
 
 
-Vue CLI 3+tinymce 5富文本编辑器整合**
+**Vue CLI 3+tinymce 5富文本编辑器整合**
 
 *https://liubing.me/vue-tinymce-5.html*
 
