@@ -20,9 +20,3 @@
 
 *https://juejin.im/post/5b50760f5188251ad06b61be*
 
-
-
-**Vue中DOM的异步更新策略以及nextTick机制详解**
-
-*http://www.php.cn/js-tutorial-386849.html*
-
