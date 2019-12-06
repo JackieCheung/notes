@@ -14,3 +14,15 @@
 
 *https://juejin.im/post/5db397985188250b0960824e*
 
+
+
+**解密国内BAT等大厂前端技术体系-携程篇（长文建议收藏）**
+
+*https://juejin.im/post/5dd79147518825730f777a2c*
+
+
+
+**解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）**
+
+*https://juejin.im/post/5de6474bf265da33af512598*
+
