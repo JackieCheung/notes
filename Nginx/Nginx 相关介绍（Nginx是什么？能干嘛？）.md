@@ -6,5 +6,5 @@
 
 **Nginx的这些妙用，你肯定有不知道的！**
 
-*https://mp.weixin.qq.com/s/9VZi2suAlomu1IRGy-qdCA*
+*https://juejin.im/post/5dee499151882512444014eb*
 

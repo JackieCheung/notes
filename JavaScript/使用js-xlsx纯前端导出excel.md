@@ -18,7 +18,7 @@
 
 **[SheetJS] js-xlsx模块学习指南**
 
-*https://segmentfault.com/a/1190000018077543?utm_source=tag-newest*
+*https://segmentfault.com/a/1190000018077543*
 
 
 
