@@ -14,3 +14,10 @@
 
 *https://segmentfault.com/a/1190000018311280*
 
+
+
+**从ES6到ES10的新特性万字大总结（不得不收藏）**
+
+*https://juejin.im/post/5dfa5cb86fb9a0165721db1d*
+
+
