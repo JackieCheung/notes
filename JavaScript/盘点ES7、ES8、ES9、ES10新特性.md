@@ -4,6 +4,12 @@
 
 
 
+**7个令人兴奋的 JavaScript 新特性**
+
+*https://github.com/ljianshu/Blog/issues/78*
+
+
+
 **ECMAScript 2016、2017和2018中所有新特性。**
 
 *https://segmentfault.com/a/1190000017285373*
