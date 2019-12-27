@@ -4,7 +4,7 @@
 
 
 
-**几个眼前一亮的 JavaScript 新特性**
+**值得期待的 JavaScript 新特性**
 
 *https://juejin.im/post/5dfe4744518825123406ae1b*
 
