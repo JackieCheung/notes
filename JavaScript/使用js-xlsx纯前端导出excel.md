@@ -58,7 +58,12 @@
 
 
 
-**【后-node】使用xlsx-style设置表格的宽高等样式**
+**【node+demo】使用xlsx-style设置表格的宽高等样式**
 
 *https://www.jianshu.com/p/877631e7e411*
 
+
+
+**用xlsx-style设置表格的高度，宽度，颜色，字体等**
+
+*https://blog.csdn.net/qq_39738977/article/details/102948222*
