@@ -19,3 +19,9 @@
 **TypeScript 设计模式之模板方法**
 
 *https://semlinker.com/ts-template-method/*
+
+
+
+**TypeScript 设计模式之享元模式**
+
+*http://www.semlinker.com/ts-flyweight-pattern/*
