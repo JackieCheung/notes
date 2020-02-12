@@ -50,3 +50,18 @@
 
 *http://www.cnblogs.com/bllx/p/9280912.html*
 
+
+
+------
+
+
+
+**Vue PDF文件预览vue-pdf**
+
+*https://www.cnblogs.com/steamed-twisted-roll/p/9648255.html*
+
+
+
+**pdf 在线预览之 vue-pdf插件**
+
+*https://www.cnblogs.com/chen-yi-yi/p/11504861.html*
