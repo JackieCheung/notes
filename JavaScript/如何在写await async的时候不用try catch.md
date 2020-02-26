@@ -8,3 +8,8 @@
 
 *https://juejin.im/post/5d25b39bf265da1bb67a4176*
 
+
+
+**How to write async await without try-catch blocks in Javascript**
+
+*https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/*
