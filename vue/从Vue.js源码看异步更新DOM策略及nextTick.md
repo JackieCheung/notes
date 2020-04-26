@@ -14,8 +14,3 @@
 
 *https://juejin.im/post/5b067e66f265da0de45237cd*
 
-
-
-**深入理解之Vue nextTick**
-
-*https://www.jianshu.com/p/6c5c48ec2ba4*
