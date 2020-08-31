@@ -8,3 +8,8 @@
 
 *https://www.php.cn/js-tutorial-387360.html*
 
+
+
+**Fastclick的坑**
+
+*https://mingyili.github.io/2017/04/01.html*
