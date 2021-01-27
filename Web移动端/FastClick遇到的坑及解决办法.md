@@ -1,3 +1,9 @@
+**别再使用fastclick了**
+
+*https://juejin.cn/post/6844904168092614670*
+
+
+
 **iOS11.3 fastclick.js相关bug**
 
 *https://www.jianshu.com/p/5b578e656966*
