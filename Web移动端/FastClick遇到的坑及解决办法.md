@@ -4,6 +4,12 @@
 
 
 
+**2019 再聊移动端 300ms 延迟及 fastClick 原理解析**
+
+*https://juejin.cn/post/6844903850160160782*
+
+
+
 **iOS11.3 fastclick.js相关bug**
 
 *https://www.jianshu.com/p/5b578e656966*
